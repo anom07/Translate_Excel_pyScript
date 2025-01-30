@@ -1,0 +1,19 @@
+This is  Python Script project which helps the conversion of excel file(English to Marathi)
+
+Simply copy paste this project and do folllow steps:
+
+Here is modules require to run this project.
+i am writing direct cmd's so that it will be easy for you to copy paste.
+
+pip install pandas
+pip install pillow
+pip install deep_translator 
+pip install openpyxl
+
+## change your file name in below line , and keep file in same folder##
+input_file = r"D:\projcect translate\add your excel file name here.xlsx" 
+
+Just confirm all the above things and you are good to go ... Run the python file.
+
+
+If you want to help in any project dm in on this insta id emigme_demon
